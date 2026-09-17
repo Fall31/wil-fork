@@ -17,10 +17,12 @@ function App() {
           pagina 2
         </p>
       </main>
+      
 
       <footer>
         <p>
           2026 - Wil
+          pagina de macho alfa
         </p>
       </footer>
     </div>
