@@ -14,6 +14,7 @@ function App() {
           Esta es la pagina para la organizacion
         </p>
         <p>
+          mensaje cammbiado
           pagina 2: Juan 
         </p>
       </main>
@@ -22,7 +23,6 @@ function App() {
       <footer>
         <p>
           2026 - Wil
-          pagina de macho alfa
         </p>
       </footer>
     </div>
