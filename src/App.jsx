@@ -15,6 +15,7 @@ function App() {
         </p>
         <p>
           mensaje 2
+          pagina 2
         </p>
       </main>
 
