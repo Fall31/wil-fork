@@ -12,6 +12,9 @@ function App() {
         <p>
           Esta es la pagina para la organizacion
         </p>
+        <p>
+          pagina 2
+        </p>
       </main>
 
       <footer>
