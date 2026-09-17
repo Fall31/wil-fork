@@ -16,10 +16,12 @@ function App() {
           mensaje cammbiado
         </p>
       </main>
+      
 
       <footer>
         <p>
           2026 - Wil
+          pagina de macho alfa
         </p>
       </footer>
     </div>
