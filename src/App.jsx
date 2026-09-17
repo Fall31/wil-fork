@@ -21,7 +21,6 @@ function App() {
       <footer>
         <p>
           2026 - Wil
-          pagina de macho alfa
         </p>
       </footer>
     </div>
