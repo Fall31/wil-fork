@@ -16,8 +16,12 @@ function App() {
           pagina 2
         </p>
       </main>
+      
 
       <footer>
+        <p>
+          pagina de macho alfa
+        </p>
       </footer>
     </div>
   );
